@@ -1,0 +1,190 @@
+{
+  "image_Narayana Medical College Hospital": null,
+  "appointment_bookings": [],
+  "image_Government General Hospital": null,
+  "call_Narayana Medical College Hospital": false,
+  "FormSubmitter:appointment_Simhapuri Hospitals-Book Appointment": false,
+  "submit_review_KIMS Nellore": false,
+  "image_KIMS Nellore": null,
+  "status_Government General Hospital": true,
+  "offline_mode": false,
+  "date_KIMS Nellore": "2025-04-11",
+  "color_blind_mode": false,
+  "chatbot_memory": 5,
+  "review_filter": 0,
+  "favorite_Narayana Medical College Hospital": false,
+  "time_Simhapuri Hospitals": "00:50:00",
+  "appointment_reminders": true,
+  "rating_history": {
+    "Apollo Speciality Hospitals": [
+      4.5
+    ],
+    "Narayana Medical College Hospital": [
+      4.7
+    ],
+    "Simhapuri Hospitals": [
+      4.2
+    ],
+    "KIMS Nellore": [
+      4.4
+    ],
+    "Government General Hospital": [
+      3.8
+    ]
+  },
+  "date_Government General Hospital": "2025-04-11",
+  "status_Narayana Medical College Hospital": true,
+  "user_location": [
+    14.4426,
+    79.9865
+  ],
+  "profile_pic": null,
+  "theme_color": "#007AFF",
+  "data_refresh_interval": 300,
+  "dark_mode": false,
+  "rating_Apollo Speciality Hospitals": 4.5,
+  "language": "English",
+  "status_Simhapuri Hospitals": true,
+  "specialty_Government General Hospital": "General Medicine",
+  "submit_review_Simhapuri Hospitals": false,
+  "search_suggestions": true,
+  "time_Apollo Speciality Hospitals": "00:50:00",
+  "search_history": [],
+  "specialty_KIMS Nellore": "Urology",
+  "email_credentials": {
+    "sender": "",
+    "password": ""
+  },
+  "history_log": [],
+  "notes_Narayana Medical College Hospital": "",
+  "rating_Simhapuri Hospitals": 4.2,
+  "highlight_favorites": false,
+  "FormSubmitter:appointment_KIMS Nellore-Book Appointment": false,
+  "favorite_Government General Hospital": false,
+  "notes_Apollo Speciality Hospitals": "",
+  "favorite_Apollo Speciality Hospitals": false,
+  "data_export_format": "JSON",
+  "FormSubmitter:chat_form-Send": false,
+  "date_Apollo Speciality Hospitals": "2025-04-11",
+  "notes": "",
+  "hospital_ratings_comments": {
+    "Apollo Speciality Hospitals": [],
+    "Narayana Medical College Hospital": [],
+    "Simhapuri Hospitals": [],
+    "KIMS Nellore": [],
+    "Government General Hospital": []
+  },
+  "submit_review_Apollo Speciality Hospitals": false,
+  "submit_review_Government General Hospital": false,
+  "font_size": 16,
+  "hospital_notes": {
+    "Apollo Speciality Hospitals": "",
+    "Narayana Medical College Hospital": "",
+    "Simhapuri Hospitals": "",
+    "KIMS Nellore": "",
+    "Government General Hospital": ""
+  },
+  "email_alerts": false,
+  "user_roles": {
+    "admin": [],
+    "user": [
+      "admin"
+    ]
+  },
+  "show_tooltips": true,
+  "custom_alert_message": "Low beds detected!",
+  "logged_in": true,
+  "alert_sound": false,
+  "custom_css": "",
+  "review_KIMS Nellore": "",
+  "date_Narayana Medical College Hospital": "2025-04-11",
+  "notes_KIMS Nellore": "",
+  "live_tracking": false,
+  "rating_Narayana Medical College Hospital": 4.7,
+  "auto_refresh": false,
+  "FormSubmitter:appointment_Government General Hospital-Book Appointment": false,
+  "hospital_search": "",
+  "accessibility_mode": false,
+  "specialty_Apollo Speciality Hospitals": "Cardiology",
+  "user_preferences": {
+    "role": "user"
+  },
+  "image_Simhapuri Hospitals": null,
+  "map_zoom": 12,
+  "distance_filter": 10.0,
+  "specialty_Simhapuri Hospitals": "Orthopedics",
+  "user_name": "admin",
+  "hospital_reviews": {
+    "Apollo Speciality Hospitals": [],
+    "Narayana Medical College Hospital": [],
+    "Simhapuri Hospitals": [],
+    "KIMS Nellore": [],
+    "Government General Hospital": []
+  },
+  "notes_Government General Hospital": "",
+  "emergency_priority": false,
+  "email_address": "",
+  "show_map": false,
+  "notification_delay": 2,
+  "wait_time_alert": 20,
+  "time_Government General Hospital": "00:50:00",
+  "share_location": false,
+  "favorites": [],
+  "favorite_Simhapuri Hospitals": false,
+  "review_Narayana Medical College Hospital": "",
+  "weather_api_key": "",
+  "notifications": true,
+  "review_Government General Hospital": "",
+  "chat_input_new": "",
+  "image_Apollo Speciality Hospitals": null,
+  "selected_specialty": "All",
+  "call_Simhapuri Hospitals": false,
+  "review_Simhapuri Hospitals": "",
+  "chat_history": [],
+  "FormSubmitter:profile_form-Save Profile": false,
+  "emergency_contact": "",
+  "status_KIMS Nellore": true,
+  "alert_history": [
+    "2025-04-11 00:50:50: \u23f3 High wait time alert: KIMS Nellore, Government General Hospital exceed 20 minutes!"
+  ],
+  "password": "",
+  "emergency_contacts_list": [],
+  "favorite_KIMS Nellore": false,
+  "review_Apollo Speciality Hospitals": "",
+  "voice_mode": false,
+  "time_KIMS Nellore": "00:50:00",
+  "time_Narayana Medical College Hospital": "00:50:00",
+  "submit_review_Narayana Medical College Hospital": false,
+  "call_Apollo Speciality Hospitals": false,
+  "alert_threshold": 5,
+  "FormSubmitter:feedback_form-Submit Feedback \u2709\ufe0f": false,
+  "timezone": "Asia/Kolkata",
+  "news_feed": [],
+  "rating_KIMS Nellore": 4.4,
+  "hospital_status": {
+    "Apollo Speciality Hospitals": true,
+    "Narayana Medical College Hospital": true,
+    "Simhapuri Hospitals": true,
+    "KIMS Nellore": true,
+    "Government General Hospital": true
+  },
+  "specialty_Narayana Medical College Hospital": "Pediatrics",
+  "sos_button": false,
+  "status_Apollo Speciality Hospitals": true,
+  "weather_alerts": false,
+  "call_Government General Hospital": false,
+  "multi_user": false,
+  "date_Simhapuri Hospitals": "2025-04-11",
+  "rating_Government General Hospital": 3.8,
+  "FormSubmitter:appointment_Narayana Medical College Hospital-Book Appointment": false,
+  "FormSubmitter:appointment_Apollo Speciality Hospitals-Book Appointment": false,
+  "hospital_images": {
+    "Apollo Speciality Hospitals": null,
+    "Narayana Medical College Hospital": null,
+    "Simhapuri Hospitals": null,
+    "KIMS Nellore": null,
+    "Government General Hospital": null
+  },
+  "notes_Simhapuri Hospitals": "",
+  "call_KIMS Nellore": false
+}
